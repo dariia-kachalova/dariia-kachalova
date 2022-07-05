@@ -1,7 +1,5 @@
 
-I am open for work as Junior Web Developer
 
-## ⚡ Technologies
 ![C#](https://img.shields.io/badge/-C%23-green)
 ![.NET](https://img.shields.io/badge/-.NET-blueviolet)
 ![Visual Basic Net](https://img.shields.io/badge/-VSB-blueviolet)
